@@ -75,3 +75,6 @@ venv38/
 
 # Datasets
 datasets/
+
+# workspace
+*.code-workspace
